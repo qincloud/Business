@@ -1,3 +1,3 @@
 # Business
 模仿商城的项目
-需要搭建
+这个项目运行需要配置nginx+fastdfs(图片服务器),zookeeper服务器(dubbo的注册中心)，redis服务器(代替session和缓存)
